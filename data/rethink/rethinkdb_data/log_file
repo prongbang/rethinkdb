@@ -138,3 +138,19 @@
 2018-02-04T16:31:09.935999289 47361.771190s notice: All client connections closed.
 2018-02-04T16:31:09.936063856 47361.771205s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2018-02-04T16:31:10.035460733 47361.870603s notice: Storage engine shut down.
+2018-02-05T02:51:18.748001568 0.017806s notice: Running rethinkdb 2.3.6~0jessie (GCC 4.9.2)...
+2018-02-05T02:51:18.752135500 0.021939s notice: Running on Linux 4.9.60-linuxkit-aufs x86_64
+2018-02-05T02:51:18.752438349 0.022239s notice: Loading data from directory /data/rethinkdb_data
+2018-02-05T02:51:18.786863028 0.056666s notice: Ignoring --initial-password option because the admin password is already configured.
+2018-02-05T02:51:18.793751582 0.063556s info: Automatically using cache size of 151 MB
+2018-02-05T02:51:18.795886414 0.065687s notice: Listening for intracluster connections on port 29015
+2018-02-05T02:51:18.861870505 0.131672s notice: Listening for client driver connections on port 28015
+2018-02-05T02:51:18.862100690 0.131902s notice: Listening for administrative HTTP connections on port 8080
+2018-02-05T02:51:18.864143568 0.133944s notice: Listening on cluster addresses: 127.0.0.1, 172.22.0.2
+2018-02-05T02:51:18.865204438 0.135042s notice: Listening on driver addresses: 127.0.0.1, 172.22.0.2
+2018-02-05T02:51:18.866441519 0.136243s notice: Listening on http addresses: 127.0.0.1, 172.22.0.2
+2018-02-05T02:51:18.866451714 0.136252s notice: Server ready, "afb9ca5def38_92j" 89274dec-ef37-43ca-8b41-9c0ddd68cc19
+2018-02-05T02:51:20.273396590 1.543199s info: Table a4b932bb-bebe-441f-81e4-3f8c9911105b: Starting a new Raft election for term 2.
+2018-02-05T02:51:20.274739318 1.544540s info: Table a4b932bb-bebe-441f-81e4-3f8c9911105b: This server is Raft leader for term 2. Latest log index is 2.
+2018-02-05T02:51:20.650798794 1.920603s info: Table 203e91c3-d609-4eb6-8314-76190e163d5d: Starting a new Raft election for term 2.
+2018-02-05T02:51:20.652277155 1.922080s info: Table 203e91c3-d609-4eb6-8314-76190e163d5d: This server is Raft leader for term 2. Latest log index is 2.
